@@ -283,13 +283,4 @@ Expected result:
 * Spring Cloud Gateway integration
 * Prometheus monitoring
 
----
 
-## 👨‍💻 Author
-
-Developed as a backend systems project to demonstrate:
-
-* API Gateway architecture
-* Distributed microservices
-* Rate limiting strategies
-* Backend scalability patterns
